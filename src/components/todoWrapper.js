@@ -1,9 +1,11 @@
 import React from 'react'
 
-export default function todoWrapper() {
+const todoWrapper = () => {
   return (
     <div>
       
     </div>
   )
 }
+
+export default todoWrapper

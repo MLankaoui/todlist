@@ -1,9 +1,12 @@
 import React from 'react'
 
-export default function todo() {
+const todo = () => {
   return (
     <div>
       
     </div>
   )
 }
+
+export default todo
+
